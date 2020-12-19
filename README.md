@@ -1,0 +1,1 @@
+"# smpadi.plugins" 

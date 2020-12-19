@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="smpadi.plugins:jar">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="smpadi.plugins.jar">
+      <element id="module-output" name="smpadi.plugins" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/spigot-api-1.16.4-R0.1-20201213.003717-29.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/server.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,9 @@
+name: PlayerHeadDropper
+version: 1.2
+author: AdiMC
+main: newpack.myclass
+api-version: 1.16
+commands:
+  myskull:
+    description: This command gives a player his own skull
+    usage: /myskull
